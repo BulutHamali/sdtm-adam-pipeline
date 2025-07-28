@@ -72,11 +72,18 @@ SDTM_ADaM_Portfolio/
 ### AE Summary (Subjects with ≥1 Adverse Event by Treatment Arm)
 ![AE Summary](tlf/ae_summary_plot.png)
 
+### AE Summary
+Most adverse events occurred in the treated group, as expected for an active drug arm.  
+This summary highlights my ability to derive treatment-emergent AE counts.
+
 ---
 
 ### Demographics Breakdown (Age Groups & Sex by Treatment Arm)
 ![Demographics](tlf/demographics_plot.png)
 
+### Demographics
+Older subjects (65+) make up most of the treated group, with a fairly balanced sex distribution.  
+This demonstrates creating stratified demographic summaries for study reports.
 
 ---
 
