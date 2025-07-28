@@ -1,0 +1,15 @@
+# R session and workspace files
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project files
+.Rproj.user/
+
+# Mac OS metadata
+.DS_Store
+
+# Temporary or generated files 
+*.tmp
+*.log
+

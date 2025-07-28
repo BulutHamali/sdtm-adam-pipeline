@@ -1,0 +1,9 @@
+TRT_FLAG,AGEGRP,SEX,N
+Placebo,40-65,F,9
+Placebo,40-65,M,6
+Placebo,65+,F,44
+Placebo,65+,M,27
+Treated,40-65,F,18
+Treated,40-65,M,13
+Treated,65+,F,108
+Treated,65+,M,81
